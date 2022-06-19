@@ -1,5 +1,6 @@
 # Coaching-HTML-CSS-Study
 네이버 부스트코스 "비전공자를 위한 HTML/CSS 코칭스터디 1기"
+5주과정
 
 역할 : 리드부스트
 
@@ -13,3 +14,7 @@ https://developer.mozilla.org/ko/docs/Learn/Front-end_web_developer
 
 웹 관련 기술에 대한 최신 정보
 https://developer.mozilla.org/
+
+
+[수료증.pdf](https://github.com/freemoon99/Coaching-HTML-CSS-Study/files/8935651/default.pdf)
+[리드부스트수료증.pdf](https://github.com/freemoon99/Coaching-HTML-CSS-Study/files/8935652/default.pdf)
