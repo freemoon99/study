@@ -16,5 +16,5 @@ https://developer.mozilla.org/ko/docs/Learn/Front-end_web_developer
 https://developer.mozilla.org/
 
 
-[수료증.pdf](https://github.com/freemoon99/Coaching-HTML-CSS-Study/files/8935651/default.pdf)
-[리드부스트수료증.pdf](https://github.com/freemoon99/Coaching-HTML-CSS-Study/files/8935652/default.pdf)
+![수료증](https://user-images.githubusercontent.com/102667851/174485010-991d80b2-2f14-41a6-8b1a-93f5b5e5d6aa.png)
+![리드부스트](https://user-images.githubusercontent.com/102667851/174485012-9e16836e-ab28-4628-b0e7-74184393b22b.png)
