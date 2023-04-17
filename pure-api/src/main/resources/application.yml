@@ -1,0 +1,21 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/pureapi
+    username: root
+    password: 1234
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    database: mysql
+    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
+    hibernate:
+      ddl-auto: create  # 스키마 자동 생성
+    show-sql: true      # SQL 쿼리 출력
+    properties:
+      hibernate:
+        format_sql: true  # SQL pretty print
+  server:
+    servlet:
+      encoding:
+        charset: UTF-8
+        enabled: true
+        force: true
