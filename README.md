@@ -29,6 +29,10 @@ NSLab에서 주어진 간단한 유의어 사전 프로젝트를 위한 연습
 # nodeservertest, chatting
 서버와 채팅 구현을 위한 가벼운 연습(js를 이용함)
 
+# Object
+객체지향 관련 예제 실습
+[블로그 정리](https://velog.io/@freemoon99/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-%EC%B1%85%EC%9D%84-%ED%86%B5%ED%95%9C-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EC%9E%85%EB%AC%B8)
+
 
 #### 참고
 [깃허브 레포지토리 합치기](https://velog.io/@ejayjeon/Github-Repository%EB%93%A4-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%ED%95%98%EB%82%98%EB%A1%9C-%ED%95%A9%EC%B9%98%EA%B8%B0)
