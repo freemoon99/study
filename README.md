@@ -11,10 +11,18 @@
 ## practice_CRUD
 springboot 실습
 
-# springboot+jwt
+
+# practice_springSecurity
+
+## springboot+jwt
+jwt로 로그인 구현
+
 ## src
 스프링 부트를 이용한 유저 기능(회원가입, 로그인) 구현 연습
 - spring securtiy, jwt, MySQL사용
+
+## loginWithGithubOauth
+- 깃허브 OAuth2.0을 이용하여 소셜 로그인 구현...
 
 # practice-Dart
 flutter 를 이용한 프로젝트를 진행하기 위해 연습
