@@ -22,6 +22,7 @@ springboot 실습
 
 ## loginWithGithubOauth
 - 깃허브 OAuth2.0을 이용하여 소셜 로그인 구현...
+- [벨로그 게시글](https://velog.io/@freemoon99/%EA%B9%83%ED%97%88%EB%B8%8C-OAuth2.0%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-spring-boot-OAuth-jpa)
 
 # practice-Dart
 flutter 를 이용한 프로젝트를 진행하기 위해 연습
