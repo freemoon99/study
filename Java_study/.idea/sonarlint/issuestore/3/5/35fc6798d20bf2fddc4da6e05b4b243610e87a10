@@ -1,0 +1,48 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…è±¢ÿÿÿÿÿ
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Óüú
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒÿÇøÿÿÿÿ
+K
+java:S1854("5Remove this useless assignment to local variable "f".(Šğ°¯
+K
+java:S1854&"5Remove this useless assignment to local variable "l".(êç©Á
+J
+java:S1854$"5Remove this useless assignment to local variable "i".(ÔíÜ
+K
+java:S1854#"5Remove this useless assignment to local variable "s".(ø¨Èá
+P
+java:S1854"5Remove this useless assignment to local variable "e".(Èã³äÿÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "d".(àìÕó
+K
+java:S1854"5Remove this useless assignment to local variable "c".(àìÕó
+K
+java:S1854"5Remove this useless assignment to local variable "b".(’–Ç­
+L
+java:S1854"6Remove this useless assignment to local variable "_a".(à„ã¯
+5
+java:S1659"Declare "d" on a separate line.(àìÕó
+E	java:S106"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ
+B
+java:S1481"'Remove this unused "_a" local variable.(…è±¢ÿÿÿÿÿ
+<
+java:S1481"&Remove this unused "b" local variable.(’–Ç­
+<
+java:S1481"&Remove this unused "c" local variable.(àìÕó
+<
+java:S1481"&Remove this unused "d" local variable.(àìÕó
+<
+java:S1481"&Remove this unused "n" local variable.(Åİ¤Ÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(µÅåƒşÿÿÿÿ
+A
+java:S1481"&Remove this unused "e" local variable.(Èã³äÿÿÿÿÿ
+<
+java:S1481#"&Remove this unused "s" local variable.(ø¨Èá
+;
+java:S1481$"&Remove this unused "i" local variable.(ÔíÜ
+<
+java:S1481&"&Remove this unused "l" local variable.(êç©Á
+<
+java:S1481("&Remove this unused "f" local variable.(Šğ°¯
+V	java:S125)"<This block of commented-out lines of code should be removed.(ØÄ²Ñüÿÿÿÿ
