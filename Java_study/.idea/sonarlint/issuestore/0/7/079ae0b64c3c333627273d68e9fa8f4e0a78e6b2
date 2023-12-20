@@ -2,18 +2,18 @@
 h
 java:S1192"FDefine a constant instead of duplicating this literal "hello" 3 times.(øß®ßûÿÿÿÿ8¿ÆóæÇ1
 {	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓßÁØùÿÿÿÿ8‘™ÙæÇ1
+Z
+java:S2589^"8Remove this expression which always evaluates to "false"(ùÓÍ‰üÿÿÿÿ8­†úæÇ1
 U
 java:S2589Z"8Remove this expression which always evaluates to "false"( £ÿ8¬†úæÇ1
 T
 java:S2589]"7Remove this expression which always evaluates to "true"(é‰¬–8¬†úæÇ1
+Y
+java:S2589Y"7Remove this expression which always evaluates to "true"(ñõçÅüÿÿÿÿ8¬†úæÇ1
 T
 java:S2589X"7Remove this expression which always evaluates to "true"(ıù¼¼8«†úæÇ1
 S
 java:S2589\"7Remove this expression which always evaluates to "true"(Äšd8¬†úæÇ1
-Z
-java:S2589^"8Remove this expression which always evaluates to "false"(ùÓÍ‰üÿÿÿÿ8­†úæÇ1
-Y
-java:S2589Y"7Remove this expression which always evaluates to "true"(ñõçÅüÿÿÿÿ8¬†úæÇ1
 S
 java:S18543"6Remove this useless assignment to local variable "a1".(±´Æ„8™™ÙæÇ1
 G	java:S106"+Replace this use of System.out by a logger.(‚¨Ö§8›™ÙæÇ1
