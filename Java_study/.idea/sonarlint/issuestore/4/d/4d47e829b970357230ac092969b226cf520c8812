@@ -1,0 +1,26 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÆŸßÊ8¿ĞÃŞÒ1
+^
+java:S1854"<Remove this useless assignment to local variable "intValue".(·²€èúÿÿÿÿ8ÄĞÃŞÒ1
+^
+java:S1854"<Remove this useless assignment to local variable "intValue".(¹İ›üÿÿÿÿ8ÄĞÃŞÒ1
+X
+java:S1854"<Remove this useless assignment to local variable "intValue".(ËÚßZ8ÄĞÃŞÒ1
+Y
+java:S1854"<Remove this useless assignment to local variable "intValue".(¢³Éš8ÄĞÃŞÒ1
+^
+java:S1854"<Remove this useless assignment to local variable "intValue".(¥‚“Íùÿÿÿÿ8ÄĞÃŞÒ1
+^
+java:S1854"<Remove this useless assignment to local variable "intValue".(êÕúÿÿÿÿ8ÄĞÃŞÒ1
+[
+java:S1854">Remove this useless assignment to local variable "maxIntOver".(ÃÅÎ©8ÄĞÃŞÒ1
+\
+java:S1854"?Remove this useless assignment to local variable "maxIntValue".(—¾½8ÄĞÃŞÒ1
+^
+java:S1854"<Remove this useless assignment to local variable "intValue".(·¶ˆÈûÿÿÿÿ8ÄĞÃŞÒ1
+Y
+java:S1854"<Remove this useless assignment to local variable "intValue".(Ğç™Š8ÄĞÃŞÒ1
+^
+java:S1854"<Remove this useless assignment to local variable "intValue".(›ëİÕÿÿÿÿÿ8ÄĞÃŞÒ1
+O
+java:S1481"-Remove this unused "intValue" local variable.(•Â´Áøÿÿÿÿ8ÊĞÃŞÒ1

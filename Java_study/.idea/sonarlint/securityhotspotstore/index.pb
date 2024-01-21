@@ -15,3 +15,9 @@ R
 "src/ch4/조건문/Conditional.java,e\e\ee893af122e3367b925a9f86e14633f51d04c083
 K
 src/ch5/반복문/Loop.java,6\f\6f3ae412fd85ebd8809bfd8659bbfdefdfb6a0be
+X
+(src/ch6/스코프와형변환/Scope.java,e\7\e7160eae5cde5b1544da18e8c642ffc1a6739030
+]
+-src/ch6/스코프와형변환/Conversion.java,a\1\a17d60bb7785443628b225738656fa3e874581f6
+Z
+*src/ch6/스코프와형변환/Casting.java,4\d\4d47e829b970357230ac092969b226cf520c8812
