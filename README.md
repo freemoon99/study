@@ -1,5 +1,4 @@
 # study
-
 공부한 자료들 모음
 
 # practiceSpring
@@ -10,7 +9,6 @@
 
 ## practice_CRUD
 springboot 실습
-
 
 # practice_springSecurity
 
@@ -39,3 +37,7 @@ NSLab에서 주어진 간단한 유의어 사전 프로젝트를 위한 연습
 # Object
 객체지향 관련 예제 실습
 [블로그 정리](https://velog.io/@freemoon99/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-%EC%B1%85%EC%9D%84-%ED%86%B5%ED%95%9C-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EC%9E%85%EB%AC%B8)
+
+# 코멘토 직무 특강
+- IT 대기업 개발자와 채팅 서비스 마이그레이션으로 백엔드 직무 체험하기
+- IT 대기업 현업 개발자와 함께 하는 백엔드 개발 실무
