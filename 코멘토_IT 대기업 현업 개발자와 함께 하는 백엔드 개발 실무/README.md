@@ -3,7 +3,7 @@
 
 ## 1주차 : 개발환경 셋팅
 - Java: Oracle JDK 8 (version "1.8.0_221")_ <br>
-- Eclipse IDE: 2019-09 <br>
+- Eclipse IDE: 2019-06 <br>
 - Tomcat: 9.0.85_ <br>
 - MariaDB: 10.2.14_ <br>
 - MySQL Workbench: 8.0.34_ <br>
@@ -13,6 +13,12 @@
 - 톰캣 설정 및 Hello World 출력
 - mariaDB, mySql WorkBench 설치 및 샘플 DB 구축
 - 스프링, Mariadb, MyBatis 연동, 데이터 조회
+
+### 문제점 : sts 설치 문제
+이클립스 sts 설치 문제는 다음과 같이 해결하였습니다.
+1. 자바 버전 문제 -> 1.8버전 재설치 후 진행하였습니다.
+2. 이클립스 버전은 2019-06
+3. 이클립스 marketplace에서 sts 버전 다운을 Spring Tools 3 (Standalone Edition) 3.9.14 릴리즈 버전으로 다운 받아줬습니다.
 
 ## 2주차 : API 가이드 문서 작성
 ### 내용
