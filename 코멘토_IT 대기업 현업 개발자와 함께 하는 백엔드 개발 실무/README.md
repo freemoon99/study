@@ -27,3 +27,36 @@
 2. 브라우저에 URL을 입력 후 요청하여 서버에서 응답하는 과정까지에 대해 학습 한 내용을 작성
 - API 가이드라인 작성
   - 카카오 API 가이드 참고
+
+## 3주차 : 간단한 Restful API 구현
+### 내용
+- spring boot를 활용한 api 개발
+- 스프링 VS 스프링부트 차이 이해
+
+### 개발 환경
+- JAVA 17
+- IntelliJ
+- Spring Boot 3.2.2
+- maven
+- dependency
+  - MyBatis Framework
+  - Spring Boot DevTools
+  - Lombok
+  - Spring Web
+  - JDBC API
+  - MariaDB Driver
+
+### 배운점
+- maven 의존성 최신 버전 확인 : https://central.sonatype.com/
+- 경로 오류로 jsp 연동이 안되었음
+  - demo 밑에 test가 DemoApplication과 같은 레벨로 놓여져 있었어야 함
+
+### 업무 진행 현황
+#### [3-1] 스프링부트로 개발 환경 설정하기
+![이미지1](/assets/스크린샷%202024-02-02%20003619.png)
+
+#### [3-2] 통계(SW활용현황) API를 위한 DB, Table 생성
+![이미지2](</assets/스크린샷 2024-02-02 004220.png>)
+
+#### [3-3] [20년도 로그인수 API] 스프링부트, Mybatis, mariadb 연동
+![이미지3](</assets/스크린샷 2024-02-02 005309.png>)
