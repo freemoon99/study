@@ -59,9 +59,7 @@
 ![image](https://github.com/freemoon99/study/assets/102667851/d01ab223-08ec-481c-a970-01c53ab2cb5e)
 
 #### [3-3] [20년도 로그인수 API] 스프링부트, Mybatis, mariadb 연동
-<<<<<<< HEAD
-![이미지3](</assets/스크린샷 2024-02-02 005309.png>)
-
+![image](https://github.com/freemoon99/study/assets/102667851/88734f02-c41f-462d-98da-597d2cb6e31a)
 
 ## 4주차 : SW 활용 현황 API 구현 및 API 가이드 문서 보완
 ### 내용
@@ -85,6 +83,3 @@
 - api 생성
 - mybatis 연결을 위한 xml 경로 수정
 - api 명세서 postman [링크](https://documenter.getpostman.com/view/25023872/2s9Yyy8JBq)
-=======
-![image](https://github.com/freemoon99/study/assets/102667851/88734f02-c41f-462d-98da-597d2cb6e31a)
->>>>>>> 9fbf728e91c7323818d982093e80fb52ce685016
