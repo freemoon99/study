@@ -60,3 +60,27 @@
 
 #### [3-3] [20년도 로그인수 API] 스프링부트, Mybatis, mariadb 연동
 ![이미지3](</assets/스크린샷 2024-02-02 005309.png>)
+
+
+## 4주차 : SW 활용 현황 API 구현 및 API 가이드 문서 보완
+### 내용
+- 3주차에 작성한 SQL을 바탕으로 총 5가지의 SW 활용 현황 Restful API 개발
+- 본인이 개발한 내용을 바탕으로 2주차 API 가이드 문서를 보완하여 완성
+
+### 개발 환경
+- JAVA 17
+- IntelliJ
+- Spring Boot 3.2.2
+- maven
+- dependency
+  - MyBatis Framework
+  - Spring Boot DevTools
+  - Lombok
+  - Spring Web
+  - JDBC API
+  - MariaDB Driver
+
+### 진행
+- api 생성
+- mybatis 연결을 위한 xml 경로 수정
+- api 명세서 postman [링크](https://documenter.getpostman.com/view/25023872/2s9Yyy8JBq)
